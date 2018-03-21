@@ -12,5 +12,5 @@ alternatives --install /usr/bin/javac javac /usr/java/latest/bin/javac 200000
 alternatives --install /usr/bin/jar jar /usr/java/latest/bin/jar 200000
 echo "export JAVA_HOME="/user/java/latest"">> /etc/rc.local
 
-
+borrame
 popd 
